@@ -1,3 +1,4 @@
+Cloned from https://github.com/smaurice101/raspberrypi.git with permission
 # raspberrypi
 IoT: TML and Kafka on Raspberry PI
 IF having issues with java you may need to re-install
